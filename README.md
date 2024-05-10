@@ -33,3 +33,8 @@
    - The system operates in a continuous feedback loop, constantly monitoring traffic flow and intersection performance.
    - As traffic conditions evolve, the system collects new data and adjusts signal durations accordingly to maintain optimal traffic flow and reduce congestion.
    - Traffic management personnel can also provide manual overrides or adjustments as needed, ensuring flexibility and responsiveness to unexpected events or changes in traffic patterns.
+  
+     **Technologies used**
+     yolov8 ,   deeplearning ,   ai , machinelearning ,  opencv , CV2, CVzone,matplotlib ,  pandas , Numpy
+
+   
