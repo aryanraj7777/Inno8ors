@@ -48,6 +48,15 @@
  Ready for the unexpected: Flexible and responsive to changes in traffic patterns.
  Good for the economy: Reduced losses due to traffic congestion and improved transportation efficiency.
  Green transportation: Lower carbon emissions and energy consumption for a sustainable future.
+
+
+** Customization**
+You can customize the following aspects of the script:
+
+Adjust the delay between consecutive vehicle detections by modifying the detection_delay variable in the script.
+Customize the behavior of traffic simulation and signal duration adjustment in the simulate_traffic and adjust_signal_duration functions, respectively.
+Credits
+This script is inspired by OpenCV and NumPy, and it utilizes pre-trained cascade classifiers for vehicle detection.
  
 
    
