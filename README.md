@@ -35,7 +35,7 @@
    - Traffic management personnel can also provide manual overrides or adjustments as needed, ensuring flexibility and responsiveness to unexpected events or changes in traffic patterns.
   
      **Technologies used**
-     yolov8 ,   deeplearning ,   ai , machinelearning ,  opencv , CV2, CVzone,matplotlib ,  pandas , Numpy , opencv
+     yolov8 ,   deeplearning ,   ai , machinelearning ,  opencv , CV2, CVzone,matplotlib ,  pandas , Numpy 
 
      **Impacts we are creating **
      
