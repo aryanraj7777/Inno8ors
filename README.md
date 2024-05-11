@@ -38,7 +38,8 @@
      yolov8 ,   deeplearning ,   ai , machinelearning ,  opencv , CV2, CVzone,matplotlib ,  pandas , Numpy
 
      **Impacts we are creating **
-   1.  Say goodbye to traffic jams: Dynamic signal durations optimize traffic flow and reduce congestion.
+     
+ 1. Say goodbye to traffic jams: Dynamic signal durations optimize traffic flow and reduce congestion.
 2. Smoother commutes ahead: Efficient signal timings save time and fuel for commuters.
 3. Breath easy: Improved air quality and reduced noise pollution for a better urban living experience.
 4. In the driver's seat: Traffic authorities can monitor and adjust signal timings with ease.
