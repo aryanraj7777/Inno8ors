@@ -35,18 +35,18 @@
    - Traffic management personnel can also provide manual overrides or adjustments as needed, ensuring flexibility and responsiveness to unexpected events or changes in traffic patterns.
   
      **Technologies used**
-     yolov8 ,   deeplearning ,   ai , machinelearning ,  opencv , CV2, CVzone,matplotlib ,  pandas , Numpy
+     yolov8 ,   deeplearning ,   ai , machinelearning ,  opencv , CV2, CVzone,matplotlib ,  pandas , Numpy , opencv
 
      **Impacts we are creating **
      
- 1. Say goodbye to traffic jams: Dynamic signal durations optimize traffic flow and reduce congestion.
-2. Smoother commutes ahead: Efficient signal timings save time and fuel for commuters.
-3. Breath easy: Improved air quality and reduced noise pollution for a better urban living experience.
-4. In the driver's seat: Traffic authorities can monitor and adjust signal timings with ease.
-5. Tech-savvy traffic: Advanced technologies like YOLOv8, AI, and machine learning for accurate and efficient data analysis.
-6. Always learning, always improving: Continuous feedback loop for optimal traffic flow and performance.
-7. Ready for the unexpected: Flexible and responsive to changes in traffic patterns.
-8. Good for the economy: Reduced losses due to traffic congestion and improved transportation efficiency.
-9. Green transportation: Lower carbon emissions and energy consumption for a sustainable future.
+  Say goodbye to traffic jams: Dynamic signal durations optimize traffic flow and reduce congestion.
+ Smoother commutes ahead: Efficient signal timings save time and fuel for commuters.
+ Breath easy: Improved air quality and reduced noise pollution for a better urban living experience.
+ In the driver's seat: Traffic authorities can monitor and adjust signal timings with ease.
+ Tech-savvy traffic: Advanced technologies like YOLOv8, AI, and machine learning for accurate and efficient data analysis.
+ Always learning, always improving: Continuous feedback loop for optimal traffic flow and performance.
+ Ready for the unexpected: Flexible and responsive to changes in traffic patterns.
+ Good for the economy: Reduced losses due to traffic congestion and improved transportation efficiency.
+ Green transportation: Lower carbon emissions and energy consumption for a sustainable future.
 
    
